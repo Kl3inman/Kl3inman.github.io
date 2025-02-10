@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kl3inman.github.io/link/index.html</loc>
+    <loc>https://kleinman.uno/link/index.html</loc>
     
     <lastmod>2025-02-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://kl3inman.github.io/categories/index.html</loc>
+    <loc>https://kleinman.uno/categories/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://kl3inman.github.io/tags/index.html</loc>
+    <loc>https://kleinman.uno/tags/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://kl3inman.github.io/2025/01/24/hello-world/</loc>
+    <loc>https://kleinman.uno/2025/01/24/hello-world/</loc>
     
     <lastmod>2025-01-23</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://kl3inman.github.io/</loc>
+    <loc>https://kleinman.uno/</loc>
     <lastmod>2025-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
