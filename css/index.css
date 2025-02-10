@@ -2670,7 +2670,7 @@ i.anzhiyu-icon-hashtag {
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #3b9bb1;
   --btn-color: #fff;
   --btn-bg: var(--anzhiyu-main);
   --text-bg-hover: rgba(86,188,211,0.7);
@@ -2684,7 +2684,7 @@ i.anzhiyu-icon-hashtag {
   --toc-link-color: #666261;
   --card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.05);
   --card-hover-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.09);
-  --pseudo-hover: #ff7242;
+  --pseudo-hover: #3b9bb1;
   --headline-presudo: var(--anzhiyu-fontcolor);
   --scrollbar-color: var(--anzhiyu-scrollbar);
   --anzhiyu-snackbar-time: 2000ms;
@@ -16278,7 +16278,7 @@ li.card-category-list-item {
 #waline-wrap {
   --waline-font-size: 1.1em;
   --waline-theme-color: var(--anzhiyu-main);
-  --waline-active-color: #ff7242;
+  --waline-active-color: #3b9bb1;
 }
 #waline-wrap .vuser {
   -webkit-transition: all 0.5s;
