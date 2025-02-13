@@ -8,7 +8,7 @@
       <link href="/2025/01/24/hello-world/"/>
       <url>/2025/01/24/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
@@ -32,44 +32,11 @@
     
     
     <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>About</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>你好！我是Kleinman，来自四川宜宾，现就读于<strong>上海交通大学</strong>2023级<strong>人工智能</strong>试点班<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>，很高兴认识你。</p><hr><p>这里是我记笔记✏️的地方，我会将自己学到的东西和一些思考💡记录下来，帮助自己进步，同时也许会帮助到你。另外，我也会在这里记录一些自己的生活。</p><p>我对机器人(Robotics)和数学建模比较感兴趣，目前在和几位同学做具身智能和物理仿真相关的研究。平时我喜欢打篮球🏀、跑步健身、打游戏，有空会开两把本能cs🔫。听歌以R&amp;B和各类摇滚为主，其他类型的音乐也会听。</p><p>如果你：</p><ul><li>和我有相同的兴趣爱好</li><li>希望找个人一起运动或学习</li><li>想和我交个朋友</li><li>有组队参加竞赛的想法</li></ul><p>都可以点下面的图标添加我的好友。如果你有任何问题想和我交流，也可以直接给我发邮件：<code>1315720885@sjtu.edu.cn</code>，我会尽快回复。</p><p><strong>来者犹可追！</strong></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>“从长江头到长江尾”的由来hhhh <a href="#fnref1" class="footnote-backref">↩︎</a></p></li></ol></section>]]></content>
+        <content type="html"><![CDATA[<p>你好！我是Kleinman，来自四川宜宾，现就读于<strong>上海交通大学</strong>2023级<strong>人工智能</strong>试点班<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>，很高兴认识你。</p><hr><p>这里是我记笔记✏️的地方，我会将自己学到的东西和一些思考💡记录下来，帮助自己进步，同时也许会帮助到你。另外，我也会在这里记录一些自己的生活。</p><p>我对机器人(Robotics)和数学建模比较感兴趣，目前在和几位同学做具身智能和物理仿真相关的研究。平时我喜欢打篮球🏀、跑步健身、打游戏，有空会开两把本能cs🔫。听歌以R&amp;B和各类摇滚为主，其他类型的音乐也会听。</p><p>如果你：</p><ul><li>和我有相同的兴趣爱好</li><li>希望找个人一起运动或学习</li><li>想和我交个朋友</li><li>有组队参加竞赛的想法</li></ul><p>都可以点下面的图标添加我的好友。如果你有任何问题想和我交流，也可以直接给我发邮件：<code>1315720885@sjtu.edu.cn</code>，我会尽快回复。</p><p><strong>来者犹可追！</strong></p><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><hr><ol><li id="fn1"><p>“从长江头到长江尾”的由来hhhh<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li></ol></section>]]></content>
       
     </entry>
     
@@ -79,6 +46,17 @@
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -98,9 +76,31 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
