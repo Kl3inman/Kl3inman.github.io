@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kleinman.uno/about/index.html</loc>
+    
+    <lastmod>2025-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kleinman.uno/2025/01/24/hello-world/</loc>
     
     <lastmod>2025-02-13</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://kleinman.uno/link/index.html</loc>
     
     <lastmod>2025-02-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kleinman.uno/about/index.html</loc>
-    
-    <lastmod>2025-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
