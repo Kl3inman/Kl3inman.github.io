@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kleinman.uno/2025/01/24/hello-world/</loc>
+    
+    <lastmod>2025-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kleinman.uno/link/index.html</loc>
+    
+    <lastmod>2025-02-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kleinman.uno/about/index.html</loc>
     
     <lastmod>2025-02-12</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://kleinman.uno/link/index.html</loc>
-    
-    <lastmod>2025-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kleinman.uno/categories/index.html</loc>
     
     <lastmod>2025-02-08</lastmod>
@@ -64,15 +73,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://kleinman.uno/2025/01/24/hello-world/</loc>
-    
-    <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://kleinman.uno/</loc>
@@ -82,6 +82,20 @@
   </url>
 
   
+  <url>
+    <loc>https://kleinman.uno/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://kleinman.uno/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
