@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://kleinman.uno/</loc>
-    <lastmod>2025-02-21</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +102,21 @@
   
   <url>
     <loc>https://kleinman.uno/tags/Linear-Algebra/</loc>
-    <lastmod>2025-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kleinman.uno/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2025-02-21</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kleinman.uno/tags/%E5%AD%A6%E6%9C%9F%E5%9B%9E%E9%A1%BE/</loc>
-    <lastmod>2025-02-21</lastmod>
+    <lastmod>2025-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kleinman.uno/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -125,14 +125,14 @@
   
   <url>
     <loc>https://kleinman.uno/categories/Notes/</loc>
-    <lastmod>2025-02-21</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kleinman.uno/categories/Summaries/</loc>
-    <lastmod>2025-02-21</lastmod>
+    <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
